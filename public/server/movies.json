@@ -1,0 +1,107 @@
+[
+  {
+    "id": "mv001",
+    "title": "Avengers Endgame",
+    "detail": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios` grand conclusion to twenty-two films",
+    "img": "/img/avengers-endgame-et00100559-09-04-2019-05-19-52.jpg",
+    "rating": "4",
+    "cast": [
+      {
+        "name": "Robert Downey",
+        "img": "/img/cast/robert-downey-jr-1902-17-12-2018-02-26-59.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "img": "/img/cast/chris-evans-430-22-12-2017-10-13-37.jpg"
+      },
+      {
+        "name": "Brie Larson",
+        "img": "/img/cast/brie-larson-28222-24-03-2017-13-54-03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mv002",
+    "title": "Long Shot",
+    "detail": "Fred Flarsky (Seth Rogen), a gifted and free-spirited journalist with an affinity for trouble, unexpectedly runs into his first crush, Charlotte. She is, now, one of the most influential women in the world - smart, sophisticated, and an accomplished diplomat.",
+    "img": "/img/long-shot-et00103188-20-05-2019-08-30-07.jpg",
+    "rating": "5",
+    "cast": [
+      {
+        "name": "Charlize Theron",
+        "img": "/img/cast/charlize-theron-410-21-05-2019-04-42-50.jpg"
+      },
+      {
+        "name": "Seth Rogen",
+        "img": "/img/cast/seth-rogen-2777-24-03-2017-12-32-05.jpg"
+      },
+      {
+        "name": "Andy Serkis",
+        "img": "/img/cast/andy-serkis-9888-13-12-2017-05-31-10.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mv003",
+    "title": "Aladdin",
+    "detail": "A thrilling and vibrant live-action adaptation of Disney's animated classic, \"Aladdin\" is the exciting tale of the charming street rat Aladdin.",
+    "img": "/img/aladdin-2018-et00086118-11-10-2018-04-28-34.jpg",
+    "rating": "2",
+    "cast": [
+      {
+        "name": "Will Smith",
+        "img": "/img/cast/will-smith-2524-24-03-2017-17-27-35.jpg"
+      },
+      {
+        "name": "Mena Massoud",
+        "img": "/img/cast/mena-massoud-1096408-23-10-2018-03-38-15.jpg"
+      },
+      {
+        "name": "Naomi Scott",
+        "img": "/img/cast/naomi-scott-1059898-24-03-2017-17-33-10.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mv004",
+    "title": "A Dog`s Journey",
+    "detail": "A sequel to the global hit \"A Dog`s Purpose\", the film follows man`s best friend on a heartwarming and exhilarating journey where he seeks the meaning of his own existence.",
+    "img": "/img/a-dogs-journey-et00099438-22-03-2019-03-42-02.jpg",
+    "rating": "4",
+    "cast": [
+      {
+        "name": "Betty Gilpin",
+        "img": "/img/cast/betty-gilpin-iein017272-24-03-2017-15-42-22.jpg"
+      },
+      {
+        "name": "Marg Helgenberger",
+        "img": "/img/cast/marg-helgenberger-iein002592-24-03-2017-12-44-13.jpg"
+      },
+      {
+        "name": "Josh Gad",
+        "img": "/img/cast/josh-gad-6298-24-03-2017-17-30-08.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mv005",
+    "title": "Dinosaur Adventure",
+    "detail": "There is always a curiosity about Dinosaurs in our minds. How they lived, what did they used to eat etc. Lets live the Prehistoric era once again with breathtaking 7D effects. Feel the Grunting T-rex right next to you. Enjoy a cub.",
+    "img": "/img//dinosaur-adventure-et00019360-05-04-2017-05-54-51.jpg",
+    "rating": "5",
+    "cast": [
+      {
+        "name": "Betty Gilpin",
+        "img": "/img/cast/betty-gilpin-iein017272-24-03-2017-15-42-22.jpg"
+      },
+      {
+        "name": "Marg Helgenberger",
+        "img": "/img/cast/marg-helgenberger-iein002592-24-03-2017-12-44-13.jpg"
+      },
+      {
+        "name": "Josh Gad",
+        "img": "/img/cast/josh-gad-6298-24-03-2017-17-30-08.jpg"
+      }
+    ]
+  }
+]
